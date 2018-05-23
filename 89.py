@@ -1,2 +1,3 @@
 m=input("char")
-n=print(sorted(m))
+n=sorted(m)
+print("".join(n))
